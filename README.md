@@ -1,4 +1,4 @@
-# Task 1 - Article Scraper
+# Article Scraper
 
 This Python script scrapes text from a Medium article URL and saves it to a file.
 
